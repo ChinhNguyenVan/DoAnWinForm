@@ -1,0 +1,12 @@
+D:\Hutech\HOCKY2-2018-2019-He\code\QuanLySinh\EL\bin\Debug\EL.dll
+D:\Hutech\HOCKY2-2018-2019-He\code\QuanLySinh\EL\bin\Debug\EL.pdb
+D:\Hutech\HOCKY2-2018-2019-He\code\QuanLySinh\EL\obj\Debug\EL.csprojAssemblyReference.cache
+D:\Hutech\HOCKY2-2018-2019-He\code\QuanLySinh\EL\obj\Debug\EL.csproj.CoreCompileInputs.cache
+D:\Hutech\HOCKY2-2018-2019-He\code\QuanLySinh\EL\obj\Debug\EL.dll
+D:\Hutech\HOCKY2-2018-2019-He\code\QuanLySinh\EL\obj\Debug\EL.pdb
+F:\DOANWinForm\CodeKienTrucDaTang\QuanLySinh\EL\bin\Debug\EL.dll
+F:\DOANWinForm\CodeKienTrucDaTang\QuanLySinh\EL\bin\Debug\EL.pdb
+F:\DOANWinForm\CodeKienTrucDaTang\QuanLySinh\EL\obj\Debug\EL.csprojAssemblyReference.cache
+F:\DOANWinForm\CodeKienTrucDaTang\QuanLySinh\EL\obj\Debug\EL.csproj.CoreCompileInputs.cache
+F:\DOANWinForm\CodeKienTrucDaTang\QuanLySinh\EL\obj\Debug\EL.dll
+F:\DOANWinForm\CodeKienTrucDaTang\QuanLySinh\EL\obj\Debug\EL.pdb

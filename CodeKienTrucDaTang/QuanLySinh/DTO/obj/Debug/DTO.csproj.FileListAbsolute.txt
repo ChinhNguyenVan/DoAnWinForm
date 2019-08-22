@@ -1,0 +1,12 @@
+D:\Hutech\HOCKY2-2018-2019-He\code\QuanLySinh\DTO\bin\Debug\DTO.dll
+D:\Hutech\HOCKY2-2018-2019-He\code\QuanLySinh\DTO\bin\Debug\DTO.pdb
+D:\Hutech\HOCKY2-2018-2019-He\code\QuanLySinh\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+D:\Hutech\HOCKY2-2018-2019-He\code\QuanLySinh\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\Hutech\HOCKY2-2018-2019-He\code\QuanLySinh\DTO\obj\Debug\DTO.dll
+D:\Hutech\HOCKY2-2018-2019-He\code\QuanLySinh\DTO\obj\Debug\DTO.pdb
+F:\DOANWinForm\CodeKienTrucDaTang\QuanLySinh\DTO\bin\Debug\DTO.dll
+F:\DOANWinForm\CodeKienTrucDaTang\QuanLySinh\DTO\bin\Debug\DTO.pdb
+F:\DOANWinForm\CodeKienTrucDaTang\QuanLySinh\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+F:\DOANWinForm\CodeKienTrucDaTang\QuanLySinh\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+F:\DOANWinForm\CodeKienTrucDaTang\QuanLySinh\DTO\obj\Debug\DTO.dll
+F:\DOANWinForm\CodeKienTrucDaTang\QuanLySinh\DTO\obj\Debug\DTO.pdb
